@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0"
+  },
+  "name": "turbo-fiesta",
+  "description": "Employee Tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancysaetern/turbo-fiesta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nancysaetern/turbo-fiesta/issues"
+  },
+  "homepage": "https://github.com/nancysaetern/turbo-fiesta#readme"
+}
